@@ -55,9 +55,7 @@ Bahasa C adalah bahasa pemrograman tingkat tinggi dan general-purpose yang digun
 
 ### Struktur Dasar Bahasa C
 
-## Struktur Dasar Program C
-
-
+Buka file berikut [hello_world](/hello_world.c)
 
 ```
 
@@ -72,9 +70,4 @@ printf("Halo, Dunia!\\n");
 return 0;
 
 }
-
-
-
-
 ```
-
