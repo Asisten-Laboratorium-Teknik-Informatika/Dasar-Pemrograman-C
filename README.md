@@ -1,6 +1,6 @@
 ## Dasar Pemrograman Dengan Bahasa C
 
-![Code:Blocks](codeblock.jpg){width="800" height="600" style="display: block; margin: 0 auto"}
+![Code:Blocks](c.png){width="800" height="600" style="display: block; margin: 0 auto"}
 
 
 
