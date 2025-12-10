@@ -1,8 +1,5 @@
 ## Dasar Pemrograman Dengan Bahasa C
-
-![Code:Blocks](c.png#center)
-
-
+---
 
 Berikut merupakan materi dasar pemrograman C untuk stambuk 2025 jurusan D3 Teknik Informatika USU
 
