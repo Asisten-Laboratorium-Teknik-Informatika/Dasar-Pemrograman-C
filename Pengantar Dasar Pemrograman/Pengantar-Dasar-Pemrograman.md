@@ -55,7 +55,7 @@ Bahasa C adalah bahasa pemrograman tingkat tinggi dan general-purpose yang digun
 
 ### Struktur Dasar Bahasa C
 
-Buka file berikut [hello_world](/Pengantar-Dasar-Pemrograman/hello_world.c)
+Buka file berikut [hello_world](/Pengantar-Dasar-Pemrograman/hello_world)
 
 ```
 
